@@ -1,0 +1,35 @@
+body{
+	width: 1280px;
+	margin: 100px auto;
+	border: 1px solid gray;
+	box-shadow: 0 0 10px aquamarine;
+}
+table{
+	border-collapse: collapse;
+}
+
+img, table{
+	width: 100%;
+}
+th{
+	height: 50px;
+	border: 2px;
+	color: brown;
+}
+a{
+	text-decoration: none;
+	color: green;
+}
+.main_img{
+	max-width: 200px;
+	min-width: 80px;
+	
+}
+h1{
+	color: brown;
+}
+h1,  h6,  p {text-align: center;}
+.social_ico{
+	width: 30px;
+	margin: 0 auto;
+}
